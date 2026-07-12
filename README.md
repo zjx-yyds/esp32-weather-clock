@@ -47,7 +47,7 @@
 | `CS` | `GPIO5` |
 | `BLK` / `LED` | `3V3` |
 
-更详细的接线记录见 [hardware/01-接线说明.md](hardware/01-%E6%8E%A5%E7%BA%BF%E8%AF%B4%E6%98%8E.md)。
+更详细的接线记录见 [hardware/wiring.md](hardware/wiring.md)。
 
 ## 编译和烧录
 
