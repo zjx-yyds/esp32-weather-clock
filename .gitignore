@@ -1,0 +1,19 @@
+# PlatformIO / build outputs
+.pio/
+**/.pio/
+.vscode/
+**/.vscode/
+
+# Local secrets
+source/weather-clock-firmware/include/secrets.h
+**/include/secrets.h
+
+# Local raw photos. Optimized README images are in docs/images.
+效果展示图/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
